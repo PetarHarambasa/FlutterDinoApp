@@ -2,7 +2,7 @@
 
 Flutter project in progress...
 
-To make this app work you will need API with JSON data if you want to test it out.
+To make this app work you will need API with JSON data for you to test it out.
 
 ## Getting Started
 
