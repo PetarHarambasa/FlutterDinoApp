@@ -1,6 +1,6 @@
-# ark2
+# Ark2
 
-A new Flutter project.
+Flutter project in progress...
 
 ## Getting Started
 
