@@ -2,6 +2,8 @@
 
 Flutter project in progress...
 
+To make this app work you will need API with JSON data if you want to test it out.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
